@@ -3,6 +3,7 @@
 
 *Source : [Foodista](https://www.foodista.com/recipe/T76GKMC7/traditional-hungarian-goulash)*
 
+![Goulash_image](https://www.foodista.com/_next/image?url=https%3A%2F%2Fsc.foodista.com%2FDSC05922.jpg&w=1920&q=75)
 
 ## Ingredients
 
