@@ -1,5 +1,5 @@
 body{
-    font-family: 'Architects Daughter', serif;
+    font-family: 'Georgia', serif;
     font-size: 16px;
     color: #2f2f2f;
     background-color: #d7f1e2f5;
@@ -60,7 +60,7 @@ p{
 .column{
     font-size: 18px;
     line-height: 20px;
-    width: 17.5%;
+    width: 40.5%;
     display: inline-block;
     padding: 0 1% 0 1%;
     vertical-align: top;
@@ -80,7 +80,7 @@ p{
 }
 .column .headline.hl1{
     font-weight: 700;
-    font-size: 30px;
+    font-size: 60px;
     text-transform: uppercase;
     padding: 10px 0 10px 0;
 
