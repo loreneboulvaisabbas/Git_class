@@ -5,5 +5,6 @@
 Not the Best One, but a good start. 
 
 ! There is a need to check other recipes.
+! You need to check for specialized stores to buy REAL Paprika from Hungary 
 
 --------
